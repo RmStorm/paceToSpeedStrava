@@ -7,7 +7,7 @@
   "description": "Converts paces in min/km to speeds in km/h on strava data feed",
   "manifest_version": 2,
   "name": "paceToSpeedStrava",
-  "version": "1.1",
+  "version": "1.2",
 
   "content_scripts": [
     {
